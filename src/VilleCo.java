@@ -5,7 +5,7 @@ public class VilleCo {
     public int superficie;
     public PaysCo sonPays;
     
-    // ceci est une ville
+    // ceci est une ville hhg
     public VilleCo() {
     	
     }
